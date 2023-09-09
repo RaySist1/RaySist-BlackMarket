@@ -1,15 +1,14 @@
 # RaySist-BlackMarket
 QBCore BlackMarket Script
 
-#features
+You need this
 OX_LIB
 https://github.com/overextended/ox_lib
 QB-CORE & QB-TARGET
 
-#showcase
+Showcase
 https://youtu.be/aav7QIiSBHQ?feature=shared
 
-#info
 Make it gang only
 
 add this to config.lua
