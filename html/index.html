@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RaySist BlackmarketV2</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="blackmarket-container">
+        <div class="tablet-frame">
+            <div class="tablet-camera"></div>
+            <div class="tablet-screen">
+                <div class="blackmarket-header">
+                    <div class="header-title">
+                        <i class="fas fa-skull"></i>
+                        <h1>BLACK MARKET</h1>
+                    </div>
+                    <div class="close-button" id="close-button">
+                        <i class="fas fa-times"></i>
+                    </div>
+                </div>
+
+                <div class="blackmarket-content">
+                    <div class="categories">
+                        <div class="category active" data-category="weapons">
+                            <i class="fas fa-gun"></i>
+                            <span>Weapons</span>
+                        </div>
+                        <div class="category" data-category="ammo">
+                            <i class="fas fa-bomb"></i>
+                            <span>Ammo</span>
+                        </div>
+                        <div class="category" data-category="attachments">
+                            <i class="fas fa-crosshairs"></i>
+                            <span>Attachments</span>
+                        </div>
+                        <div class="category" data-category="misc">
+                            <i class="fas fa-box"></i>
+                            <span>Misc</span>
+                        </div>
+                    </div>
+
+                    <div class="items-container">
+                        <div class="search-bar">
+                            <i class="fas fa-search"></i>
+                            <input type="text" id="search-input" placeholder="Search items...">
+                        </div>
+                        <div class="items-grid" id="items-grid">
+                            <!-- Items will be populated here by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="notification" id="notification">
+                    <div class="notification-content">
+                        <i class="fas fa-info-circle"></i>
+                        <span id="notification-message"></span>
+                    </div>
+                </div>
+
+                <div class="watermark">
+                    <span>RaySist-Blackmarket V2</span>
+                </div>
+            </div>
+            <div class="tablet-home-button"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

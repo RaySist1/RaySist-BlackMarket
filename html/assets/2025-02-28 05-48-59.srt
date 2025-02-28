@@ -1,0 +1,84 @@
+1
+00:00:10,260 --> 00:00:13,589
+Hey everyone, it's RaySist,
+and I'm back with a
+
+2
+00:00:13,600 --> 00:00:17,568
+fully revamped version
+of my blackmarket script,
+
+3
+00:00:17,580 --> 00:00:18,079
+RaySist-BlackmarketV2.
+
+4
+00:00:18,840 --> 00:00:22,469
+This isn't just an update,
+it's a complete overhaul,
+
+5
+00:00:22,480 --> 00:00:25,249
+designed to give your FiveM
+server the most flexible
+
+6
+00:00:25,260 --> 00:00:27,439
+and immersive underground
+marketplace yet.
+
+7
+00:00:28,140 --> 00:00:31,868
+With the brand new modern NUI
+interface, players can easily
+
+8
+00:00:31,880 --> 00:00:35,269
+browse and purchase weapons,
+ammo, and black market
+
+9
+00:00:35,280 --> 00:00:37,699
+exclusives in a smooth
+and interactive way.
+
+10
+00:00:37,700 --> 00:00:39,379
+Want full control?
+
+11
+00:00:39,960 --> 00:00:40,859
+You got it.
+
+12
+00:00:41,520 --> 00:00:45,589
+You can toggle qb-target, move
+market locations, customize
+
+13
+00:00:45,600 --> 00:00:48,749
+prices, and even change
+the items available,
+
+14
+00:00:48,760 --> 00:00:50,859
+all to fit your server's
+economy and style.
+
+15
+00:00:51,600 --> 00:00:52,439
+No restrictions.
+
+16
+00:00:53,420 --> 00:00:54,939
+No unnecessary limitations.
+
+17
+00:00:56,080 --> 00:00:59,529
+Just a fully customizable
+black market experience,
+
+18
+00:00:59,540 --> 00:01:00,009
+built for service.
+
