@@ -1,5 +1,7 @@
 # RaySist-BlackmarketV2
 
+# Support https://discord.gg/pNvGMgQ2vZ
+
 A modern FiveM blackmarket script for QBCore framework with a sleek NUI interface.
 
 ![Logo](https://i.ibb.co/23TssGW8/black-removebg-preview.png)
